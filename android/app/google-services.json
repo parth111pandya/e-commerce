@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857236131138",
+    "project_id": "e-commerce-app-e2d06",
+    "storage_bucket": "e-commerce-app-e2d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857236131138:android:6456c679b6f57a30a48cdb",
+        "android_client_info": {
+          "package_name": "com.example.app.archer.e.commerce.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPF2CH4n0BecBlAT38TW_q5YkVCk0JFQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
