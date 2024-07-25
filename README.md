@@ -1,5 +1,3 @@
-# e_commerce
-
 ## E-Commerce Flutter Application Template
 
 This template provides a comprehensive starting point for building a modern and feature-rich
