@@ -5,6 +5,9 @@ e-commerce application using Flutter. It includes essential functionalities such
 listings, user authentication, shopping cart management. The template is designed with a clean and
 responsive UI, ensuring a seamless user experience across various devices.
 
+## APK URL
+- https://drive.google.com/file/d/17jkXeu8qOx-OG-0fMPgZHzAJiuKYmDGg/view?usp=sharing
+
 ## Login credentials
 
 UserName: demo@temp.com
